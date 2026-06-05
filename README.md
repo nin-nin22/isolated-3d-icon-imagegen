@@ -23,6 +23,22 @@ This skill helps you generate:
 - SNS and marketing visuals
 - office, gadget, food, animal, plant, and character-like isolated objects
 
+## Installation
+
+Ask Codex to install this skill from GitHub:
+
+```text
+Install the skill from https://github.com/nin-nin22/isolated-3d-icon-imagegen
+```
+
+If you want to be more explicit, mention that the skill lives at the repository root:
+
+```text
+Install the Codex skill at the root of https://github.com/nin-nin22/isolated-3d-icon-imagegen
+```
+
+Codex may ask for permission to access GitHub during installation. After installation, restart Codex so the new skill is picked up.
+
 ## Repository Structure
 
 ```text

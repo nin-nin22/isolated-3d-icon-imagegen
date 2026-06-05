@@ -23,6 +23,22 @@
 - SNS やマーケティング向けビジュアル
 - オフィス用品、ガジェット、食品、動物、植物、人物風オブジェクトのアイソレ画像
 
+## インストール
+
+Codex に以下のように依頼すると、この GitHub リポジトリから skill をインストールできます。
+
+```text
+https://github.com/nin-nin22/isolated-3d-icon-imagegen のスキルをインストールして
+```
+
+より明示的に伝える場合は、skill がリポジトリ直下にあることも含めて依頼してください。
+
+```text
+https://github.com/nin-nin22/isolated-3d-icon-imagegen のルートにある Codex skill をインストールして
+```
+
+インストール時に、Codex が GitHub へのアクセス許可を求める場合があります。インストール後は、新しい skill を読み込むために Codex を再起動してください。
+
 ## リポジトリ構成
 
 ```text
