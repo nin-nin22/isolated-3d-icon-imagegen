@@ -1,0 +1,7 @@
+interface:
+  display_name: "Isolated 3D Icon Imagegen"
+  short_description: "samples の作風に合うアイソレ画像を生成"
+  default_prompt: "Use $isolated-3d-icon-imagegen to generate an isolated isometric 3D icon image that matches the bundled samples."
+
+policy:
+  allow_implicit_invocation: true
